@@ -8,10 +8,10 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Import the needed packages
+2. Assigning hours To X and Scores to Y
+3. Plot the scatter plot
+4. Use mse,rmse,mae formmula to find 
 
 ## Program:
 ```
@@ -20,7 +20,8 @@ Program to implement the simple linear regression model for predicting the marks
 Developed by: JAI PRADHIKSHA D P
 RegisterNumber:  212221040062
 */
-
+```
+```
 import numpy as np
 import pandas as pd
 from sklearn.metrics import mean_absolute_error,mean_squared_error
