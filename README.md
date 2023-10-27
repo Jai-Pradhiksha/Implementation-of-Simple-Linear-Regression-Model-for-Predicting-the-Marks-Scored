@@ -81,16 +81,20 @@ print(Y_pred1)
 ```
 
 ## Output:
+1) df.head()
+2) df.tail()
 ![image](https://github.com/Jai-Pradhiksha/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/100289733/d9e9d044-1040-447b-8343-328d81327a5e)
-
+3) Array value of X
+4) Array value of Y
 ![image](https://github.com/Jai-Pradhiksha/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/100289733/8e210a0e-7ac1-4ec4-b168-ef4f4d0a1f32)
-
+5) Values of Y prediction
+6) Array values of Y test
 ![image](https://github.com/Jai-Pradhiksha/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/100289733/214f41d5-5d67-475c-a02b-ae28bd820811)
-
+7) Training set graph
 ![image](https://github.com/Jai-Pradhiksha/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/100289733/c8d9ca6a-2f81-4548-acd9-d882e67334f0)
-
+8) Test set graph
 ![image](https://github.com/Jai-Pradhiksha/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/100289733/a47bd15f-b077-495c-b381-4de508f1b217)
-
+9)Values of MSE,MAE and RMSE
 ![image](https://github.com/Jai-Pradhiksha/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/100289733/cfec3969-ba1d-481f-9400-3ee26268003a)
 
 
